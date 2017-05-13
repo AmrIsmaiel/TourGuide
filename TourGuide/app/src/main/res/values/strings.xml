@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="attractions">ATTRACTIONS</string>
+    <string name="header_txt"> Cairo city is one of the biggest cities in Africa . Come here and see the history in the eyes. Here You can get fun</string>
+    <string name="entertainment">ENTERTAINMENT</string>
+    <string name="hotels">HOTELS</string>
+    <string name="restaurants">RESTAURANTS</string>
+    <string name="attraction_pyramid">The Pyramids</string>
+    <string name="pyramid_location">Al Haram, Nazlet El-Semman, Al Haram, Giza Governorate</string>
+    <string name="attraction_citadelle">The Citadelle</string>
+    <string name="citadelle_location">Al Abageyah, Qesm Al Khalifah, Cairo Governorate</string>
+    <string name="attration_tower">Cairo Tower</string>
+    <string name="tower_location">Zamalek, Cairo Governorate</string>
+    <string name="entertain_azhar">AL-Azhar Park</string>
+    <string name="azhar_location">Salah Salem St, El-Darb El-Ahmar, Cairo Governorate</string>
+    <string name="hotel_fourSeasons">Four Seasons Hotel</string>
+    <string name="hotel_location">1089 Corniche El Nil, Cairo Governorate</string>
+    <string name="hotel_phone">02 27917000"</string>
+    <string name="rest_8">8 Restaurant</string>
+    <string name="rest_location">1089 Corniche El Nil, Cairo, Cairo Governorate</string>
+    <string name="rest_phone">02 27917000</string>
+</resources>
